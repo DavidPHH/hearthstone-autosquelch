@@ -1,4 +1,5 @@
 # Autosquelch
+**This is a fork that fixed behavior for Battlegrounds.**
 
 Autosquelch is a plugin for [Hearthstone Deck Tracker].
 It automatically squelches your opponent at the start of the match.
@@ -20,4 +21,4 @@ Then enable it in the Settings menu (described above).
 ![Overlay](http://i.imgur.com/HEBhZ5A.png "Unblocking dll")
 
 [Hearthstone Deck Tracker]:https://github.com/Epix37/Hearthstone-Deck-Tracker
-[release]:https://github.com/ko-vasilev/hearthstone-autosquelch/releases/latest
+[release]:https://github.com/DavidPHH/hearthstone-autosquelch/releases/latest
